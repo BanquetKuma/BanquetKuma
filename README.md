@@ -69,6 +69,8 @@
 
 ### GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanquetKuma&show_icons=true&theme=radical&locale=en)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BanquetKuma&show_icons=true&theme=radical&locale=en&layout=compact)
 
 ---
