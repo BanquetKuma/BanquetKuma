@@ -3,11 +3,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BanquetKuma&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **RAG (Retrieval-Augmented Generation) and MLOps infrastructure development**
+- 🔭 I'm currently working on **RAG (Retrieval-Augmented Generation) and MLOps infrastructure development using Claude Code**
 
 - 🌱 I'm currently learning **React, Advanced MLOps practices, and Cloud-native technologies**
 
 - 👥 Developing projects for **both organizational and personal growth**
+
+- 🤖 **Leveraging Claude Code and GitHub Copilot for building enterprise-grade MLOps platforms in organizational environments**
 
 - 💡 Interested in **Machine Learning Operations, Data Science, and Modern Web Technologies**
 
