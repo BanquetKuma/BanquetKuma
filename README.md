@@ -20,10 +20,12 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/sho-kumada-a70724189/)
+<a href="https://www.linkedin.com/in/sho-kumada-a70724189/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sho-kumada" height="40" width="40" />
+</a>
 
 <!-- Twitter/Xアカウントがある場合は下記のコメントを外して使用 -->
-<!-- [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/your-twitter) -->
+<!-- <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="40" width="40" /></a> -->
 
 ### Languages and Tools:
 
