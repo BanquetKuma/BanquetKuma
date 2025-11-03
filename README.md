@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sho Kumada</h1>
-<h3 align="center">Data Scientist & MLOps Engineer</h3>
+# Hi 👋, I'm Sho Kumada
+### Data Scientist & MLOps Engineer
 
-<!-- プロフィール閲覧数バッジ -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BanquetKuma&label=Profile%20views&color=0e75b6&style=flat" alt="BanquetKuma" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=BanquetKuma&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **RAG (Retrieval-Augmented Generation) and MLOps infrastructure development**
 
@@ -14,18 +13,20 @@
 
 - 📫 How to reach me **LinkedIn: [Sho Kumada](https://www.linkedin.com/in/sho-kumada-a70724189/)**
 
-<!-- ブログやその他の連絡先を追加する場合はここに記載 -->
-<!-- - 📝 I regularly write articles on [your-blog-url](your-blog-url) -->
-<!-- - 📄 Know about my experiences [your-resume-url](your-resume-url) -->
+<!--
+- 📝 I regularly write articles on [your-blog-url](your-blog-url)
+- 📄 Know about my experiences [your-resume-url](your-resume-url)
+-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sho-kumada-a70724189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sho-kumada" height="30" width="40" /></a>
+### Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/sho-kumada-a70724189/)
+
 <!-- Twitter/Xアカウントがある場合は下記のコメントを外して使用 -->
-<!-- <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a> -->
-</p>
+<!-- [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/your-twitter) -->
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
+
 <p align="left">
 <!-- Programming Languages -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -64,13 +65,15 @@
 <a href="https://claude.ai/code" target="_blank" rel="noreferrer"> <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" alt="claude-code" width="40" height="40"/> </a>
 </p>
 
-<!-- GitHub統計 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BanquetKuma&show_icons=true&theme=radical&locale=en&layout=compact" alt="BanquetKuma" /></p>
+### GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BanquetKuma&show_icons=true&theme=radical&locale=en&layout=compact)
 
 ---
 
-<!-- カスタマイズガイド -->
 <!--
+## カスタマイズガイド
+
 このREADMEをカスタマイズする方法：
 
 1. 追加情報:
